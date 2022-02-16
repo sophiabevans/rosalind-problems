@@ -1,5 +1,5 @@
 # rosalind-problems
-My solutions for ROSALIND bioinformatics problems (rosalind.info)
+My solutions for ROSALIND (rosalind.info) bioinformatics problems (rosalind.info)
 
 datasets from rosalind.info to test solutions are located in submission_data_files/ where prefix number corresponds to problem number.
 
