@@ -1,6 +1,6 @@
 import sys
 
-file_name = sys.argv[1]
+file_name = sys.argv[1] #test dataset file name passed as first argument
 
 with open(file_name, "r") as f:
     line = f.readline()
